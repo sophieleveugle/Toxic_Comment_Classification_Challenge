@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Annie+Use+Your+Telescope&family=Odibee+Sans&family=Source+Sans+Pro:wght@200;300&display=swap');
+
+body {
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+h1 {
+    font-family: 'Odibee Sans', cursive;
+    color: #3e4444;
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 30px;
+    size: 40px;
+
+}
+
+h2 {
+    color: #3e4444;
+    text-align: center;
+    font-family: 'Annie Use Your Telescope', cursive;
+}
+
+
+.button-submit {
+    color: white;
+    text-align: center;
+    font-family: 'Source Sans Pro', sans-serif;
+    border-width: thin;
+    background-color:#41C39A;
+    border-color: transparent;
+}
